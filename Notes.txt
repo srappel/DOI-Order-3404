@@ -1,0 +1,14 @@
+No Location Data:
+23228	Squaw Beach	Beach	Mohave	Arizona	unknown	unknown
+1074443	Squaw Lick	Stream	Ross	Ohio	unknown	unknown
+1664789	Squaw Tank	Reservoir	Riverside	California	unknown	unknown
+1980762	Squawkeag (historical)	Populated Place	Franklin	Massachusetts	unknown	unknown
+
+Assigned new FID:
+unassigned	South Squaw Creek	Stream	Marathon, Wood	Wisconsin	44.700164	-90.034936
+unassigned	Squaw Meadows	Flat	Valley	Idaho	45.1643431	-115.997068
+
+From: https://edits.nationalmap.gov/apps/gaz-domestic/public/all-official-squaw
+
+In response to the Department of the Interior Secretarial Order 3404 - Declaring "Squaw" a Derogatory Term and Implementing Procedures to Remove the Term from Federal Usage, this is a list of all official feature names that include the word "Squaw"
+*Please note that a small number of names on this list are outside the purview of the BGN but are considered official for Federal use.
